@@ -63,26 +63,19 @@ env/
 selenium-server.log
 geckodriver.log
 
-# ChromeDriver (se baixado manualmente)
-chromedriver
-chromedriver.exe
-
-# Reports (descomente se não quiser versionar)
+# Reports 
 # relatorio_links.csv
 # relatorios/*.csv
 # relatorios/*.html
 
-# Screenshots (se adicionar essa feature)
-screenshots/
-*.png
+
 
 # Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# macOS
-.DS_Store
+
 .AppleDouble
 .LSOverride
 
